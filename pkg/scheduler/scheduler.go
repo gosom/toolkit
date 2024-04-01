@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"toolkit/pkg/errorsext"
-	"toolkit/pkg/logger"
+	"github.com/gosom/toolkit/pkg/errorsext"
+	"github.com/gosom/toolkit/pkg/logger"
 )
 
 type task struct {

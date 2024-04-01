@@ -9,7 +9,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"toolkit/pkg/qrgen"
+	"github.com/gosom/toolkit/pkg/qrgen"
 )
 
 func TestQRGen_GenerateQRCode(t *testing.T) {

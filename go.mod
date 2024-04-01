@@ -1,4 +1,4 @@
-module toolkit
+module github.com/gosom/toolkit
 
 go 1.22.1
 

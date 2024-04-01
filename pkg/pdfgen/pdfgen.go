@@ -6,7 +6,7 @@ import (
 	"os"
 	"os/exec"
 
-	"toolkit/pkg/errorsext"
+	"github.com/gosom/toolkit/pkg/errorsext"
 )
 
 func Generate(ctx context.Context, w io.Writer, html []byte) error {

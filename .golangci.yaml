@@ -11,7 +11,7 @@ linters-settings:
     min-occurrences: 3
     gci:
     sections:
-      - prefix(toookit)
+      - prefix(github.com/gosom/toookit)
     custom-order: true
   gocritic:
     enabled-tags:

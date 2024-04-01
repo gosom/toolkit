@@ -6,7 +6,7 @@ import (
 
 	"github.com/pdfcpu/pdfcpu/pkg/api"
 
-	"toolkit/pkg/errorsext"
+	"github.com/gosom/toolkit/pkg/errorsext"
 )
 
 type PDFMerger struct {

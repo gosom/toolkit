@@ -9,8 +9,8 @@ import (
 
 	"github.com/skip2/go-qrcode"
 
-	"toolkit/pkg/errorsext"
-	"toolkit/pkg/logger"
+	"github.com/gosom/toolkit/pkg/errorsext"
+	"github.com/gosom/toolkit/pkg/logger"
 )
 
 const (

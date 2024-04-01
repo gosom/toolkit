@@ -13,8 +13,8 @@ import (
 	"golang.org/x/crypto/acme"
 	"golang.org/x/crypto/acme/autocert"
 
-	"toolkit/pkg/errorsext"
-	"toolkit/pkg/logger"
+	"github.com/gosom/toolkit/pkg/errorsext"
+	"github.com/gosom/toolkit/pkg/logger"
 )
 
 type Option func(*HTTPServer) error

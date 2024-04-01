@@ -7,7 +7,7 @@ import (
 
 	"log/slog"
 
-	"toolkit/pkg/errorsext"
+	"github.com/gosom/toolkit/pkg/errorsext"
 )
 
 type Logger interface {

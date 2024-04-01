@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"toolkit/pkg/pdfmerger"
+	"github.com/gosom/toolkit/pkg/pdfmerger"
 )
 
 func Test_Merge(t *testing.T) {

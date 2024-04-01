@@ -9,7 +9,7 @@ import (
 	"errors"
 	"io"
 
-	"toolkit/pkg/errorsext"
+	"github.com/gosom/toolkit/pkg/errorsext"
 )
 
 const (

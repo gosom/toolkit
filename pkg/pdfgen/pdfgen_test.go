@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"toolkit/pkg/pdfgen"
+	"github.com/gosom/toolkit/pkg/pdfgen"
 )
 
 func Test_Generate(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"strings"
 
-	"toolkit/pkg/errorsext"
+	"github.com/gosom/toolkit/pkg/errorsext"
 )
 
 func GeneratePIN(length int) (string, error) {

@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"toolkit/pkg/cryptoext"
+	"github.com/gosom/toolkit/pkg/cryptoext"
 )
 
 func Test_GeneratePIN(t *testing.T) {

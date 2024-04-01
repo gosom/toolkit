@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"toolkit/pkg/idgen"
+	"github.com/gosom/toolkit/pkg/idgen"
 )
 
 func Test_Encode_Decode(t *testing.T) {

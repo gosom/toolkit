@@ -6,7 +6,7 @@ import (
 
 	"github.com/rollbar/rollbar-go"
 
-	"toolkit/pkg/errorsext"
+	"github.com/gosom/toolkit/pkg/errorsext"
 )
 
 type Config struct {
